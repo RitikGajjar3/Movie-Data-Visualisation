@@ -19,8 +19,9 @@
 </p>
 
 <h2>📘 Problem statement:</h2>
-Explore the dataset and explore different pokemon. Create a Pokemon Classifier which classifies different pokemon like Pikachu, Bulbasaur, and Charmander.
-
+Given a Movies Dataset, your task is to make a visualisation that
+- Plots the Length of the Movie Title Names on X-Axis
+- Frequency Counts on Y-axis i.e. Number of Movies having 'x' characters in their title
 
 <h2>📦 Data Overview</h2>
 The dataset contains images of Different Pokemons.
