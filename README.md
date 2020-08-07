@@ -24,6 +24,7 @@ Given a Movies Dataset, your task is to make a visualisation that
 - Plots the Length of the Movie Title Names on X-Axis
 - Frequency Counts on Y-axis i.e. Number of Movies having 'x' characters in their title
 
+<br>
 
 ### ✅  Requirements
 
@@ -41,10 +42,13 @@ Jupyter notebook (IPython)
 2. Clone your copy on your local system
 3. Install necessary packages
 
+<br>
+
 ## 📚 Reference
 ```python
 GIF("https://giphy.com/gifs/film-vintage-UDjF1zMreMld6")
 ```
+<br>
 
 ## 📜 License
 
