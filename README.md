@@ -24,7 +24,12 @@ Given a Movies Dataset, your task is to make a visualisation that
 - Plots the Length of the Movie Title Names on X-Axis
 - Frequency Counts on Y-axis i.e. Number of Movies having 'x' characters in their title
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ### ✅  Requirements
 
 #### Programming Language
