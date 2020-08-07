@@ -56,6 +56,8 @@ This software is licensed under the [MIT](https://github.com/RitikGajjar3/Movie-
 
 MIT © RitikGajjar3
 
+<br>
+
 ## 🤝 Contact
 
 Email Id: ritik.gajjar.3@gmail.com
