@@ -25,7 +25,6 @@ Given a Movies Dataset, your task is to make a visualisation that
 - Frequency Counts on Y-axis i.e. Number of Movies having 'x' characters in their title
 
 <br>
-<br>
 
 ### ✅  Requirements
 
