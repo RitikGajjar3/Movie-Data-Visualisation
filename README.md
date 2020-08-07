@@ -20,32 +20,9 @@
 
 <h2>📘 Problem statement:</h2>
 Given a Movies Dataset, your task is to make a visualisation that
+
 - Plots the Length of the Movie Title Names on X-Axis
 - Frequency Counts on Y-axis i.e. Number of Movies having 'x' characters in their title
-
-<h2>📦 Data Overview</h2>
-The dataset contains images of Different Pokemons.
-
-- e.g:  
-<p align="Center">
-  
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/40620782/84025174-b71dba00-a9a8-11ea-9d0a-87bcc6611991.jpg">
-  <br>
-  Pikachu
-  <br>
-  <br>
-  
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/40620782/84025278-e59b9500-a9a8-11ea-845e-0d44f8ad8c2e.jpg">
-  <br>
-  Charmender
-  <br>
-  <br>
-  
-   <img width="200" height="200" src="https://user-images.githubusercontent.com/40620782/84025234-d3b9f200-a9a8-11ea-8172-d59996c5713a.jpg">
-   <br>
-   Bulbasaur
-
-</p>
 
 
 ### ✅  Requirements
@@ -66,14 +43,12 @@ Jupyter notebook (IPython)
 
 ## 📚 Reference
 ```python
-Image("https://www.theverge.com/2016/2/27/11116786/best-pokemon-20th-anniversary-eevee-squirtle-gyarados-nintendo-day")
-
-Dataset("https://www.kaggle.com/thedagger/pokemon-generation-one")
+GIF("https://giphy.com/gifs/film-vintage-UDjF1zMreMld6")
 ```
 
 ## 📜 License
 
-This software is licensed under the [MIT](https://github.com/RitikGajjar3/Pokemon-Image-Classifier/blob/master/LICENSE)
+This software is licensed under the [MIT](https://github.com/RitikGajjar3/Movie-Data-Visualisation/blob/master/LICENSE)
 
 MIT © RitikGajjar3
 
