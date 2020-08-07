@@ -26,10 +26,7 @@ Given a Movies Dataset, your task is to make a visualisation that
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 ### ✅  Requirements
 
 #### Programming Language
